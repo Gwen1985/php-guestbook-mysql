@@ -2,12 +2,6 @@
 
 # Title: Learning about databases
 
-- Repository: `php-guestbook-mysql`
-- Type of Challenge: `Learning challenge`
-- Duration: `2 days`
-- Deployment strategy : `NA`
-- Team challenge : `solo`
-
 ## Learning objectives
 
 - Create a database
