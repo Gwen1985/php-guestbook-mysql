@@ -25,8 +25,6 @@ If you have extra time, pair up with someone from the class and figure out a way
 
 ## What is the difference between MySQL and MariaDB?
 
-![mariadb-vs-mysql.png](images/mariadb-vs-mysql.png)
-
 You will find that many articles use the terms MySQL and MariaDB interchangeably, but there are different databases. They do have a shared history, and are the same for 95%.  
 This means in practice that most projects can change from one db to another with probably only minor problems.  
 MySQL used to be open-source, until it was acquired by Oracle, when some of the original developers of MySQL forked it due to concerns over its acquisition by Oracle Corporation.  
@@ -35,8 +33,6 @@ Technically, MySQL is an open-source database, but in practice, it no longer fee
 
 Technically there is not much difference between both versions, but in the last years MariaDB has being making more progress on performance, where it now outclasses MySQL for most use cases.  
 To build the basic application in this exercise you will not notice a difference, but you can always [learn more about the differences](https://www.eversql.com/mariadb-vs-mysql/) between the vendors.
-
-![mysqljoke.png](images/mysqljoke.jpg)
 
 ### NEVER INSTALL BOTH MySQL and MariaDB
 
